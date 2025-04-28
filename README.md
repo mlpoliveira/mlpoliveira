@@ -13,7 +13,7 @@ Atualmente, estou aprofundando meus conhecimentos em Linux, cloud híbrida/priva
 
 💼 Profissão: Analista Funcional ERP (JDE)
 
-💻 Stack: SQL, Linux, análise de dados
+💻 Stack: SQL, Linux, Python, análise de Dados (em treinamento)
 
 📚 Aprendizado Atual: Data Science (ONE Oracle/Alura), Linux, cloud híbrida/privada, cibersegurança
 

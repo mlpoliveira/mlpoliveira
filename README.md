@@ -32,4 +32,4 @@ Conhecimento básico em SAP FI
 
 🚀 Sempre busco novos desafios para expandir meus conhecimentos na área de tecnologia.
 
-🎮 Sou entusiasta de jogos e já me aventurei em servidores e personalização de sistemas.
+🎮 Sou entusiasta de jogos, series, Filmes, Livros

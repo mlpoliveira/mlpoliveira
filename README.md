@@ -2,6 +2,7 @@
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim.
 
 🌟 Informações Públicas
+
 Meu nome é Malu Oliveira e trabalho remotamente desde 2018. Atualmente, atuo como Analista Funcional ERP, com foco no JDE (JD Edwards). Sou apaixonada por tecnologia e estou sempre em busca de novos desafios e aprendizados. 🚀
 
 Atualmente, estou aprofundando meus conhecimentos em Linux, cloud híbrida/privada e cibersegurança, além de estudar Data Science no programa Oracle Next Education (ONE) – Alura. Tenho interesse em análise de dados e banco de dados, sempre buscando entender melhor como transformar informações em insights valiosos.
